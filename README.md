@@ -1,4 +1,4 @@
-# Xinyi's Website
+# Xinyi's Website (xinyige.github.io)
 ***The project creates my homepage for Web Developement learning purpose.
 
 ## Table of Contents
@@ -19,6 +19,3 @@ A list of technologies used within the project:
 * JavaScript
 
 
-| Headline 1 in the tablehead | Headline 2 in the tablehead | Headline 3 in the tablehead |
-|:--------------|:-------------:|--------------:|
-| text-align left | text-align center | text-align right |
