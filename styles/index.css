@@ -1,0 +1,158 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #fff;
+  font-family: "Inria Sans", sans-serif;
+}
+
+/* HAM NAVBAR */
+.ham-navbar {
+  text-align: center;
+  margin-top: 4%;
+}
+
+.ham-hobbies a {
+  font-family: "Cairo", sans-serif;
+  font-weight: 780;
+  color: #94d3ac;
+  text-decoration-color: #fa8282;
+  text-decoration: none;
+}
+
+.ham-navbar {
+  display: none;
+}
+
+@media screen and (max-width: 780px) {
+  .big-navbar {
+    display: none;
+  }
+  .ham-navbar {
+    display: block;
+  }
+}
+/* HAM NAVBAR */
+
+/* BIGNAV */
+.menu {
+  margin: 15px 275px;
+  display: flex;
+  justify-content: center;
+}
+
+nav a {
+  text-decoration: none;
+  font-size: 1.25rem;
+  font-family: "Cairo", sans-serif;
+  font-weight: 700;
+}
+
+button {
+  padding: 0 10px;
+  margin: auto 30px;
+  background-color: transparent;
+  border: none;
+}
+
+
+/* HOVER AND BUTTON COLOUR EFFECT */
+
+.about a {
+  cursor: default;
+  color: #fa8282;
+}
+
+.hobbies a,
+.cv a,
+.contact a,
+.hobbies-dropdown a {
+  color: #4d4646;
+}
+
+.about a:hover {
+  /* color: #fa8282; */
+  text-decoration: none;
+}
+
+.hobbies a:hover {
+  color: #94d3ac;
+  text-decoration: none;
+}
+
+.cv a:hover {
+  color: #ffa34d;
+  text-decoration: none;
+}
+
+.contact a:hover {
+  color: #db75c5;
+  text-decoration: none;
+}
+
+
+/* MAINBODY */
+.main {
+  margin: 5% 27% 0 28%;
+}
+
+*@media screen and (max-width: 750px) {
+  .contact-content {
+    margin: 5% 15% 0 15%;
+  }
+}
+
+
+.main h4 {
+  font-family: "Rajdhani", sans-serif;
+  color: #323232;
+  font-size: 1.6rem;
+  font-weight: 700;
+  text-align: center;
+  margin: 30px 10px 0 0;
+}
+
+.pic {
+  margin-top: 15px;
+  width: "200px";
+  height: "200px";
+  text-align: center;
+}
+
+.main p {
+  font-size: 1rem;
+  text-align: left;
+  margin-top: 15px;
+  margin: 10px;
+}
+
+.social-media {
+  text-align: center;
+  margin: 70px 0 18px 0;
+}
+
+.social-media img {
+  width: 30px;
+  padding: 5px;
+  color: black;
+}
+
+.footer {
+  height: 30px;
+}
+
+.footer {
+  font-size: 0.85rem;
+  text-align: center;
+}
+
+button {
+  font-size: 0.8rem;
+}
+
+#hitCounter {
+  visibility: hidden;
+  width: 100px;
+
+}
+
+

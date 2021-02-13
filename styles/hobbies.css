@@ -1,0 +1,153 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #fff;
+  font-family: "Inria Sans", sans-serif;
+}
+
+/* HAM NAVBAR */
+.ham-navbar {
+  text-align: center;
+  margin-top: 4%;
+}
+
+.ham-hobbies a {
+  font-family: "Cairo", sans-serif;
+  font-weight: 700;
+  color: #94d3ac;
+  text-decoration-color: #fa8282;
+}
+
+.ham-navbar {
+  display: none;
+}
+
+@media screen and (max-width: 750px) {
+  .big-navbar {
+    display: none;
+  }
+  .ham-navbar {
+    display: block;
+  }
+}
+
+/* BIGNAV */
+.menu {
+  margin: 15px 275px;
+  display: flex;
+  justify-content: center;
+}
+
+.menu ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  position: absolute;
+  visibility: hidden;
+}
+
+nav a {
+  font-size: 1.1rem;
+  font-family: "Cairo", sans-serif;
+  font-weight: 700;
+}
+
+
+button {
+  padding: 0 10px;
+  margin: auto 30px;
+  background-color: transparent;
+  border: none;
+}
+
+
+/* HOVER AND BUTTON COLOUR EFFECT */
+
+.about a {
+  cursor: default;
+  color: #fa8282;
+}
+
+.hobbies a,
+.cv a,
+.contact a {
+  color: #4d4646;
+}
+
+
+
+.about a:hover {
+  /* color: #fa8282; */
+  text-decoration: none;
+}
+
+.hobbies a:hover {
+  color: #94d3ac;
+  text-decoration: none;
+}
+
+.cv a:hover {
+  color: #ffa34d;
+}
+
+.contact a:hover {
+  color: #db75c5;
+}
+
+
+
+/* MAIN */
+.hobbies_body {
+  margin: 5% 27% 0 28%;
+}
+
+*@media screen and (max-width: 750px) {
+  .hobbies_body {
+    margin: 5% 15% 0 15%;
+  }
+}
+
+
+
+.hobbies_body h3 {
+  font-family: "Rajdhani", sans-serif;
+  color: #323232;
+  font-size: 2.2rem;
+  font-weight: 700;
+  float: left;
+  margin: 30px 10px 15px 0;
+}
+
+
+.hobbies_body p {
+  font-size: 1rem;
+}
+
+
+#email,
+#github,
+#twitter,
+#linkedin {
+  width: 35px;
+  float: right;
+  margin-right: 15px;
+}
+
+#email:hover,
+#twitter:hover,
+#github:hover,
+#linkedin:hover {
+  width: 38px;
+}
+
+/* FOOTER */
+.footer {
+  height: 25px;
+  bottom: 10px;
+  margin: 150px 0 0;
+}
+
+.footer p {
+  font-size: 0.8rem;
+  text-align: center;
+}
