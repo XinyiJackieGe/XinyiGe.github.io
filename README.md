@@ -1,4 +1,4 @@
-# Xinyi's Website (xinyige.github.io)
+# Xinyi's Website (https://xinyige.github.io)
 ***The project creates my homepage for Web Developement learning purpose.
 
 ## Table of Contents
