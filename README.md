@@ -9,7 +9,6 @@
 ### General Info
 ***
 The project aims to learn about HTML/CSS/JS/Bootstrap and design a personal website. The project is active with version 1.0.
-### Screenshot
 
 ## Technologies
 ***
