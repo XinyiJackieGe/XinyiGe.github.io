@@ -98,12 +98,12 @@ button {
 
 /* MAIN */
 .hobbies_body {
-  margin: 5% 27% 0 28%;
+  margin: 0 27% 0 28%;
 }
 
 *@media screen and (max-width: 750px) {
   .hobbies_body {
-    margin: 5% 15% 0 15%;
+    margin: 0 15% 0 15%;
   }
 }
 
@@ -121,6 +121,7 @@ button {
 
 .hobbies_body p {
   font-size: 1rem;
+  margin: 10px;
 }
 
 
