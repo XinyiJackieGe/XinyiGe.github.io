@@ -8,9 +8,6 @@ function playVideo(video) {
   iframe.setAttribute("width", 360);
   iframe.setAttribute("height", 115);
   iframe.setAttribute("frameborder", 0);
-  // Replace the YouTube thumbnail with YouTube HTML5 Player
-  //this.parentNode.replaceChild(iframe, this);
-
   video.appendChild(iframe);
 }
 
