@@ -1,4 +1,4 @@
-# Xinyi's Website (https://xinyijackiege.github.io/)
+# Xinyi's Homepage (https://xinyijackiege.github.io/)
 ***
 The project creates my homepage for Web Developement learning purposes.
 <a href="https://youtu.be/LUVkF0kFLgk">Video demo</a>
