@@ -24,6 +24,8 @@ A list of technologies used within the project:
 Simply click index.html or
 
 $ install Python3
+
 $ cd path/to/project/folder
+
 $ python3 -m http.server
 
