@@ -1,6 +1,6 @@
 # Xinyi's Website (https://xinyijackiege.github.io/)
 ***
-The project creates my homepage for Web Developement learning purpose.
+The project creates my homepage for Web Developement learning purposes.
 
 ## Table of Contents
 1. [General Info](#general-info)
@@ -23,9 +23,7 @@ A list of technologies used within the project:
 ***
 Simply click index.html or
 
-$ install Python3
-
-$ cd path/to/project/folder
-
-$ python3 -m http.server
+$ install Python3\
+$ cd path/to/project/folder\
+$ python3 -m http.server\
 
