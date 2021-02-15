@@ -1,5 +1,6 @@
 # Xinyi's Website (https://xinyijackiege.github.io/)
-***The project creates my homepage for Web Developement learning purpose.
+***
+The project creates my homepage for Web Developement learning purpose.
 
 ## Table of Contents
 1. [General Info](#general-info)
