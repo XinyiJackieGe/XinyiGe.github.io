@@ -1,5 +1,5 @@
 # Xinyi's Homepage (https://xinyijackiege.github.io/)
-Author: Xinyi Ge
+Author: Xinyi Ge\
 Class Link: [Web Development](https://johnguerra.co/classes/webDevelopment_spring_2021/)
 ***
 The project creates my homepage for Web Developement learning purposes.
@@ -17,7 +17,7 @@ The project aims to learn about HTML/CSS/JS/Bootstrap and design a personal webs
 
 ### Screenshots
 ***
-
+![Alt text](https://github.com/XinyiJackieGe/XinyiJackieGe.github.io/blob/main/images/index.png "About")
 
 ### Technologies
 ***
