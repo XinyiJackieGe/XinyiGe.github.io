@@ -1,4 +1,5 @@
-function playVideo(video) {
+function appendVideo() {
+  let video = document.getElementsByClassName("youtube")[0];
   let iframe = document.createElement("iframe");
   iframe.setAttribute(
     "src",
@@ -11,7 +12,4 @@ function playVideo(video) {
   video.appendChild(iframe);
 }
 
-
-let video = document.getElementsByClassName("youtube")[0];
-
-playVideo(video);
+appendVideo();
