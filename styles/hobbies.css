@@ -63,12 +63,12 @@ button {
 
 /* HOVER AND BUTTON COLOUR EFFECT */
 
-.about a {
+.hobbies a {
   cursor: default;
   color: #fa8282;
 }
 
-.hobbies a,
+.about a,
 .cv a,
 .contact a {
   color: #4d4646;
@@ -77,12 +77,12 @@ button {
 
 
 .about a:hover {
-  /* color: #fa8282; */
+  color: #fa8282; 
   text-decoration: none;
 }
 
 .hobbies a:hover {
-  color: #94d3ac;
+  /*color: #94d3ac;*/
   text-decoration: none;
 }
 

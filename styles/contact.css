@@ -61,20 +61,20 @@ button {
 
 /* HOVER AND BUTTON COLOUR EFFECT */
 
-.about a {
+.contact a {
   cursor: default;
   color: #fa8282;
 }
 
 .hobbies a,
 .cv a,
-.contact a {
+.about a {
   color: #4d4646;
 }
 
 
 .about a:hover {
-  /* color: #fa8282; */
+  color: #fa8282; 
   text-decoration: none;
 }
 
@@ -88,7 +88,7 @@ button {
 }
 
 .contact a:hover {
-  color: #db75c5;
+  /*color: #db75c5;*/
 }
 
 
